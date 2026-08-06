@@ -1,45 +1,47 @@
-# Hi 👋 I'm Almuhannad Shalaha
+# 👋 Hi, I'm Almuhannad Shalaha
 
-## Project Manager | Telecom & 5G FWA Engineer
-
-Experienced Project Manager with expertise in:
-
-- 5G FWA
-- Linux
-- OpenWrt
-- Git & GitHub
-- Odoo ERP
-- Automation
-- Web Development
+### Project Manager | Telecom & 5G FWA Engineer | Linux & OpenWrt Enthusiast
 
 ---
 
-## Technologies
+## 👨‍💻 About Me
 
-- Linux
-- Git
-- GitHub
-- Python
-- HTML
-- CSS
-- JavaScript
-- OpenWrt
-- Odoo
+Experienced Project Manager with a strong background in:
 
----
+- 📡 5G Fixed Wireless Access (FWA)
+- 📶 Telecom Networks
+- 🐧 Linux & OpenWrt
+- ⚙️ Automation
+- 📊 Odoo ERP
+- 🌐 Git & GitHub
+- 💻 Web Development
 
-## Current Focus
+Currently expanding my expertise in:
 
-- Learning Advanced Git
-- AI Automation
-- Python Development
-- OpenWrt Development
-- Odoo Customization
+- 🤖 AI Automation
+- 🐍 Python Development
+- ☁️ Cloud Technologies
+- 🚀 DevOps
 
 ---
 
-## Connect with me
+## 🎯 Current Goals
 
-LinkedIn
+- Improve Python skills
+- Build AI-powered automation tools
+- Master Git & GitHub workflows
+- Develop OpenWrt solutions
+- Build professional Odoo modules
 
-Dubai, UAE
+---
+
+## 🌍 Location
+
+📍 Dubai, United Arab Emirates
+
+---
+
+## 📫 Connect
+
+- LinkedIn:
+  https://www.linkedin.com/in/almuhannad-shalaha-a07690207
