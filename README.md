@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Almuhannad Shalaha
 
-<!--
-**almuhannad4/almuhannad4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Manager | Telecom & 5G FWA Engineer
 
-Here are some ideas to get you started:
+Experienced Project Manager with expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 5G FWA
+- Linux
+- OpenWrt
+- Git & GitHub
+- Odoo ERP
+- Automation
+- Web Development
+
+---
+
+## Technologies
+
+- Linux
+- Git
+- GitHub
+- Python
+- HTML
+- CSS
+- JavaScript
+- OpenWrt
+- Odoo
+
+---
+
+## Current Focus
+
+- Learning Advanced Git
+- AI Automation
+- Python Development
+- OpenWrt Development
+- Odoo Customization
+
+---
+
+## Connect with me
+
+LinkedIn
+
+Dubai, UAE
