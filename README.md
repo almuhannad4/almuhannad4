@@ -9,6 +9,10 @@ Project & Delivery Manager | Technical Pre-Sales | AI Visual Analytics & Technol
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=almuhannad4&label=Profile%20Views&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://almuhannad4.github.io/portofolio/">
     <img src="https://img.shields.io/badge/Portfolio-almuhannad4.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
